@@ -26,4 +26,17 @@ class Book{
         int currentYear;
         int subtract= currentYear - publicationYear;
     }
+
+   static totalBooks(){
+
+        Book numberofBook = new Book();
+
+       return numberofBook;
+    }
+}
+
+void main(){
+
+    numberofBook;
+
 }
